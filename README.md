@@ -20,3 +20,8 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 3. For this assignment, readability, clarity, and proper formatting are required. Refer to the lesson-and-assignment document for examples, and the [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The cheat sheet doesn't exhaust all you can do with markdown in a Github README.md. If you need more sophisticated elements, search on Google and/or ask the course staff.
 ---
 _Your study and submission work here..._
+1.2.1:
+The most generic definition for ethics I could find would be a set of standards or rules set in place for the betterment of a group as a whole vs the individual. I found a few interesting sections on the database, the first was The Ethics of Manipulation. On first instinct it seems like it is always unethical but there were some cases mentioned that could be the exception, like manipulating people for the greater good. Computer and information ethics was next, because it pertains to my field. Finally, I found the Chinese ethics section interesting as well.
+1.2.2: Aristotle wrote that moral responsibility lays within individual people. People need to make conscious choices to do good and the end goal humans have is to be happy.
+2.2.2: The centerpiece of human society that wouldn't exist would be the judicial system. If everyone was ethical, they would be working towards the greater good without a focus on the individual. If everyone works for a societal good and laws exist for societal good as well, then people wouldn't break laws. If laws aren't broken then there's no need for enforcement or trials. 
+2.2.3: 
