@@ -27,9 +27,9 @@ The most generic definition for ethics I could find would be a set of standards 
 2.2.3: The most prevalent ‘event’ in recent history that fits this example would be the lockdown of airports in response to the 9/11 terror attacks. In that case, we traded personal freedoms, privacy, and comfort for national security and safety. 
 3.2.1: 
 3.2.2: The most prominent Covid-19 ethical dilema comes from the incredibily difficult decision to open the US back up so quickly after the declaration of a global pandemic. Having to choose between economic loss and loss of life has been a huge ethics issue. China started under/misreporting their numbers brings up the dilema between giving accurate numbers to keep people aware of the seriousness of the pandemic and putting people at ease and not panicked. Citizens in the US have been having to choose between their own personal 'freedoms' and the beterment of global health and safety. It seems like a very vocal population is chosing the former over the latter in the guise of 'freedom'. 
-4.2.1: 
-4.2.2:
-4.2.3: 
+4.2.1: In general the Code of Ethics for the ACM makes a lot of sense. A focus on privacy/ security and innovation makes sense. Thoroughly learning about the ins and outs of computers also makes sense. The only portion that was confusing to me was 2.6, only performing work in areas of compentence. I feel like this limits the tasks and projects people can work on.
+4.2.2: This code is aimed at open source developers on Microsofts platfroms and communities. Providing and welcoming and inspiration community is the goal of the code of conduct. Github is an OSS that we've been using.
+4.2.3: Analysis and collection of large amounts of data by big companies is the primary concern for data ethics. Having access to these large amounts of data could lead to its exploitation for money, breaches of privacy, etc.
 4.2.4: 
 4.2.5: 
 4.2.6: 
